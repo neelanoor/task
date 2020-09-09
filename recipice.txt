@@ -3,7 +3,8 @@ rice
 meat
 chicken fry
 
-
+bean 
+pizza
 
 
 thank you
